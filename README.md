@@ -1,6 +1,6 @@
 # Hesap Makinesi - Jetpack Compose ile Geliştirilmiş
 
-Bu proje, Jetpack Compose kullanılarak temel aritmetik işlemleri gerçekleştiren bir hesap makinesi uygulamasıdır.
+Bu proje, Jetpack Compose kullanılarak temel aritmetik işlemleri gerçekleştiren bir hesap makinesi uygulamasıdır...
 
 ## 🎯 Özellikler
 - **Toplama, Çıkarma, Çarpma ve Bölme** işlemleri.
